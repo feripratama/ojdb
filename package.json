@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/feripratama/ojdb/issues"
   },
-  "homepage": "https://github.com/feripratama/ojdb#readme"
+  "homepage": "https://github.com/feripratama/ojdb#readme",
+  "dependencies": {
+    "table": "^5.3.3"
+  }
 }
