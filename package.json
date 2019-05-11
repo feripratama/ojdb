@@ -1,0 +1,23 @@
+{
+  "name": "ojdb",
+  "version": "1.0.0",
+  "description": "This is Object Database Engine",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/feripratama/ojdb.git"
+  },
+  "keywords": [
+    "Object",
+    "DB"
+  ],
+  "author": "feri pratama <eroorsys@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/feripratama/ojdb/issues"
+  },
+  "homepage": "https://github.com/feripratama/ojdb#readme"
+}
